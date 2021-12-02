@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="181"
+   height="40"
+   viewBox="0 0 47.889582 10.583334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo-white2x.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     units="px"
+     height="154px"
+     inkscape:zoom="1"
+     inkscape:cx="-77.5"
+     inkscape:cy="238.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3852"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000e1;stop-opacity:1;"
+         offset="0"
+         id="stop3850" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1204"
+       style="fill:#0000d7;fill-opacity:1;stroke-width:0.0772631"
+       d="m 5.3971985,0.52940667 c -0.1316897,-0.0012 -0.2659697,0.0021 -0.4028685,0.0099 -0.7968763,0.04568 -1.4612988,0.241914 -2.1294731,0.62879903 -0.5969309,0.345627 -1.4957323,1.307191 -1.797297,1.922972 -0.47719706,0.974397 -0.49309426,1.089832 -0.52957796,3.815147 -0.020184,1.507839 -0.00502,2.491624 0.038448,2.491624 0.039505,0 0.3136165,-0.203091 0.60915846,-0.451236 l 0.5372246,-0.451033 0.3437523,0.298692 c 0.7396815,0.642902 1.6534574,1.082075 2.5401935,1.2207983 0.2368153,0.03704 0.6740518,0.05009 0.9715138,0.02891 C 6.8749798,9.9518697 7.7062229,9.5681127 8.6331597,8.6336337 9.6623049,7.5961217 10.034471,6.7143647 10.039169,5.3029957 10.043769,3.9228187 9.6108089,2.8776107 8.6306815,1.9033247 7.7060457,0.98422067 6.6701761,0.54193167 5.3971985,0.52937967 Z M 5.3306395,2.9127117 c 0.8678996,0.01186 1.7286938,0.488522 2.1546935,1.424403 0.2395943,0.526404 0.2451036,1.393872 0.012183,1.902511 -0.2288179,0.499721 -0.6655911,0.956068 -1.1341843,1.18504 -1.2099214,0.591204 -2.5719595,0.112102 -3.2367933,-1.138741 -0.2529103,-0.475848 -0.2498107,-1.488448 0.0062,-2.008339 0.454928,-0.923844 1.3299952,-1.376739 2.1978926,-1.364874 z"
+       inkscape:export-filename="C:\Users\veli0\Music\PLP\logo white.png"
+       inkscape:export-xdpi="623.37665"
+       inkscape:export-ydpi="623.37665" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.6071px;line-height:1.25;font-family:ProximaNovaSoftW03-Regular;-inkscape-font-specification:ProximaNovaSoftW03-Regular;stroke-width:0.340181"
+       x="10.747017"
+       y="10.054136"
+       id="text1112"><tspan
+         sodipodi:role="line"
+         id="tspan1110"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol Bold';fill:#ffffff;stroke-width:0.340181"
+         x="10.747017"
+         y="10.054136">PLP</tspan></text>
+  </g>
+</svg>

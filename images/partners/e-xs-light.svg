@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="195.457"
+   height="60"
+   viewBox="0 0 51.714664 15.875"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="e-xs-light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     height="60px"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="2.9362514"
+     inkscape:cx="116.64533"
+     inkscape:cy="47.509556"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g871"
+       transform="matrix(0.01925933,0,0,0.01925933,-3.0653548,-3.2425407)"
+       style="fill:#ffffff;fill-opacity:0.69999999">
+      <g
+         id="g848"
+         style="fill:#ffffff;fill-opacity:0.69999999">
+	<g
+   id="g832"
+   style="fill:#ffffff;fill-opacity:0.69999999">
+		<rect
+   x="1198.6"
+   y="497.39999"
+   class="st0"
+   width="44.400002"
+   height="289.89999"
+   id="rect826"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+		<rect
+   x="1080"
+   y="374.60001"
+   class="st0"
+   width="361.89999"
+   height="44.400002"
+   id="rect828"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+		<rect
+   x="1278.8"
+   y="497.39999"
+   class="st0"
+   width="44.400002"
+   height="289.89999"
+   id="rect830"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+	</g>
+
+	<g
+   id="g838"
+   style="fill:#ffffff;fill-opacity:0.69999999">
+		<polygon
+   class="st0"
+   points="2594.6,787.6 2594.6,613 2549.8,563.2 2549.8,787.6 "
+   id="polygon834"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+		<polygon
+   class="st0"
+   points="2785.7,698.3 2468.8,346.1 2468.8,787.6 2513.5,787.6 2513.5,463.8 2830.6,816.1 2830.6,374.6 2785.7,374.6 "
+   id="polygon836"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+	</g>
+
+	<g
+   id="g844"
+   style="fill:#ffffff;fill-opacity:0.69999999">
+		<path
+   class="st0"
+   d="m 2178.7,374.4 c -113.9,0 -206.5,92.6 -206.5,206.5 0,113.9 92.6,206.5 206.5,206.5 113.9,0 206.5,-92.6 206.5,-206.5 0,-113.8 -92.6,-206.5 -206.5,-206.5 z m 0,368.5 c -89.3,0 -162,-72.6 -162,-162 0,-89.4 72.6,-162 162,-162 89.3,0 162,72.6 162,162 0,89.3 -72.7,162 -162,162 z"
+   id="path840"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+		<path
+   class="st0"
+   d="m 2178.7,551.2 c -16.4,0 -29.7,13.3 -29.7,29.7 0,16.4 13.3,29.7 29.7,29.7 16.4,0 29.7,-13.3 29.7,-29.7 0,-16.4 -13.3,-29.7 -29.7,-29.7 z"
+   id="path842"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+	</g>
+
+	<path
+   class="st0"
+   d="m 1894.5,501.3 c 0,-69.8 -56.4,-126.6 -125.7,-126.6 h -236.2 v 413 h 44.1 V 419.5 h 192.1 c 44.5,0 80.7,36.7 80.7,81.8 0,44.9 -35.7,81.4 -79.8,81.9 L 1613,583.1 v 204.6 h 44.1 V 627.9 h 103.3 l 84.4,159.7 h 51.3 l -88.1,-166 c 50.9,-16.9 86.5,-66.1 86.5,-120.3 z"
+   id="path846"
+   style="fill:#ffffff;fill-opacity:0.69999999" />
+
+</g>
+      <path
+         class="st1"
+         d="M 774.7,292.8 172.9,182.1 489.6,978.9 930.8,441.3 Z m -9.6,48.8 92.1,87.5 -251.8,45.6 z M 550.7,465.6 285.3,245.5 719,325.3 Z m -19,39 -43.2,357.7 -233.3,-587.2 z m 40,18.9 L 850.5,473 530.8,862.6 Z"
+         id="path850"
+         style="fill:#ffffff;fill-opacity:0.69999999" />
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style824">
+	.st0{fill:#262729;}
+	.st1{fill:#EB0029;}
+</style>
+</svg>

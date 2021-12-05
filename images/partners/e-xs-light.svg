@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="e-xs-light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     height="60px"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="2.9362514"
+     inkscape:cx="116.64533"
+     inkscape:cy="47.850126"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g871" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g871"
+       transform="matrix(0.01473392,0,0,0.01473392,-2.2829102,-2.4184622)"
+       style="fill:#333333;fill-opacity:0.7">
+      <path
+         class="st1"
+         d="M 844.95695,301.85217 193.94602,182.09991 536.54349,1044.0566 1013.8217,462.49545 Z m -10.38502,52.79052 99.63128,94.65513 -272.39041,49.32884 z M 602.63982,488.78253 315.53729,250.68431 784.7022,337.00979 Z M 582.08613,530.97167 535.35354,917.92184 282.97593,282.70479 Z m 43.27092,20.44551 301.59828,-54.62953 -345.84279,421.45872 z"
+         id="path850"
+         style="fill:#ffffff;fill-opacity:0.7;stroke-width:1.08177" />
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style824">
+	.st0{fill:#262729;}
+	.st1{fill:#EB0029;}
+</style>
+</svg>

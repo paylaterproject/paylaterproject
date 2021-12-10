@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo-white2x.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     units="px"
+     height="154px"
+     inkscape:zoom="1"
+     inkscape:cx="-77.5"
+     inkscape:cy="238.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3852"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000e1;stop-opacity:1;"
+         offset="0"
+         id="stop3850" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1204"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.0773239"
+       d="m 5.404857,0.52940667 c -0.1318969,-0.0012 -0.2663881,0.0021 -0.4035023,0.0099 -0.79813,0.04568 -1.4635978,0.241914 -2.1328232,0.62879903 -0.59787,0.345627 -1.4980855,1.307191 -1.8001246,1.922972 -0.47794778,0.974397 -0.49386999,1.089832 -0.53041109,3.815147 -0.0202158,1.507839 -0.005028,2.491624 0.0385085,2.491624 0.0395671,0 0.31410988,-0.203091 0.61011679,-0.451236 L 1.7246909,8.4955797 2.068984,8.7942717 C 2.8098292,9.4371737 3.7250426,9.8763467 4.6131738,10.01507 4.8503616,10.05211 5.288286,10.06516 5.586216,10.04398 6.8849632,9.9518697 7.717514,9.5681127 8.6459091,8.6336337 9.6766734,7.5961217 10.049425,6.7143647 10.05413,5.3029957 10.058738,3.9228187 9.6250963,2.8776107 8.643427,1.9033247 7.7173365,0.98422067 6.6798373,0.54193167 5.404857,0.52937967 Z M 5.3381933,2.9127117 c 0.869265,0.01186 1.7314134,0.488522 2.1580833,1.424403 0.2399712,0.526404 0.2454892,1.393872 0.012202,1.902511 -0.2291779,0.499721 -0.6666383,0.956068 -1.1359687,1.18504 -1.2118248,0.591204 -2.5760057,0.112102 -3.2418855,-1.138741 -0.2533081,-0.475848 -0.2502037,-1.488448 0.00621,-2.008339 0.4556437,-0.923844 1.3320876,-1.376739 2.2013504,-1.364874 z"
+       inkscape:export-filename="C:\Users\veli0\Music\PLP\logo white.png"
+       inkscape:export-xdpi="623.37665"
+       inkscape:export-ydpi="623.37665" />
+  </g>
+</svg>
